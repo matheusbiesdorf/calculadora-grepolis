@@ -1,0 +1,210 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f3f0e8;
+  color: #2f261d;
+}
+
+main {
+  width: min(1100px, 100%);
+  margin: 0 auto;
+  padding: 32px 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 2.4rem;
+  color: #3a2818;
+}
+
+/* SECTION DOS INPUTS */
+
+.lista-tropas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 16px;
+  padding: 20px;
+  background: #fffaf0;
+  border: 1px solid #d8c4a4;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(62, 43, 24, 0.12);
+}
+
+.card-tropa {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px;
+  background: #ffffff;
+  border: 1px solid #e1d3bd;
+  border-radius: 14px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card-tropa:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(62, 43, 24, 0.16);
+}
+
+.imagem-tropa {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.info-tropa {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+.info-tropa label {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.info-tropa input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #cbb99d;
+  border-radius: 8px;
+  font-size: 1rem;
+  background: #fffdf8;
+}
+
+.info-tropa input:focus {
+  outline: 2px solid #b8894d;
+  border-color: #b8894d;
+}
+
+/* BOTÕES */
+
+.botoes {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin: 28px 0;
+}
+
+.botoes button {
+  padding: 12px 26px;
+  border: none;
+  border-radius: 999px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition:
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.botoes button:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+.botao-calcular {
+  background: #8b5e2e;
+  color: white;
+}
+
+.botao-limpar {
+  background: #d9c7aa;
+  color: #3a2818;
+}
+
+/* SECTION DO RESULTADO */
+
+.resultado {
+  margin-top: 24px;
+  padding: 28px;
+  background: #fffaf0;
+  border: 1px solid #d8c4a4;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(62, 43, 24, 0.12);
+}
+
+.resultado h2 {
+  margin: 0 0 28px;
+  text-align: center;
+  font-size: 1.9rem;
+  color: #2f1b0c;
+}
+
+.resultado h3 {
+  margin: 24px 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #d8c4a4;
+  color: #8b5e2e;
+  font-size: 1.2rem;
+}
+
+.resultado-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+
+  max-width: 420px;
+  margin: 10px auto;
+  padding: 10px 14px;
+
+  background: #ffffff;
+  border: 1px solid #eadcc8;
+  border-radius: 10px;
+}
+
+.resultado-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.icone-resultado {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.resultado-info span {
+  font-weight: 700;
+  color: #2f261d;
+}
+
+.resultado-item strong {
+  min-width: 70px;
+  text-align: right;
+  font-size: 1rem;
+  color: #000;
+}
+
+/* RESPONSIVO */
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .lista-tropas {
+    grid-template-columns: 1fr;
+    padding: 14px;
+  }
+
+  .botoes {
+    flex-direction: column;
+  }
+
+  .botoes button {
+    width: 100%;
+  }
+}

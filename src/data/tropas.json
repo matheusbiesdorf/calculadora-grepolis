@@ -151,7 +151,7 @@
       "favor": 0,
       "populacao": 15
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/catapulta.png"
   },
   {
     "id": "enviadoDivino",
@@ -173,51 +173,51 @@
       "favor": 12,
       "populacao": 3
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/enviadoDivino.png"
   },
   {
     "id": "minotauro",
     "nome": "Minotauro",
     "ataque": {
-      "impacto": 0,
+      "impacto": 650,
       "corte": 0,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 750,
+      "corte": 330,
+      "arremesso": 640
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 2500,
+      "pedra": 1050,
+      "prata": 5450,
+      "favor": 180,
+      "populacao": 30
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/minotauro.png"
   },
   {
     "id": "manticora",
     "nome": "Mantícora",
     "ataque": {
       "impacto": 0,
-      "corte": 0,
+      "corte": 1010,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 170,
+      "corte": 225,
+      "arremesso": 505
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 5500,
+      "pedra": 3750,
+      "prata": 4250,
+      "favor": 270,
+      "populacao": 45
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/manticora.png"
   },
   {
     "id": "ciclope",
@@ -225,65 +225,65 @@
     "ataque": {
       "impacto": 0,
       "corte": 0,
-      "arremesso": 0
+      "arremesso": 1035
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 1050,
+      "corte": 10,
+      "arremesso": 1450
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 3000,
+      "pedra": 5000,
+      "prata": 4000,
+      "favor": 240,
+      "populacao": 40
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/ciclope.png"
   },
   {
     "id": "harpia",
     "nome": "Harpia",
     "ataque": {
-      "impacto": 0,
+      "impacto": 290,
       "corte": 0,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 105,
+      "corte": 70,
+      "arremesso": 1
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 2000,
+      "pedra": 500,
+      "prata": 1700,
+      "favor": 85,
+      "populacao": 14
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/harpia.png"
   },
   {
     "id": "medusa",
     "nome": "Medusa",
     "ataque": {
       "impacto": 0,
-      "corte": 0,
+      "corte": 425,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 480,
+      "corte": 345,
+      "arremesso": 290
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 1100,
+      "pedra": 2700,
+      "prata": 1600,
+      "favor": 110,
+      "populacao": 18
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/medusa.png"
   },
   {
     "id": "centauro",
@@ -291,65 +291,65 @@
     "ataque": {
       "impacto": 0,
       "corte": 0,
-      "arremesso": 0
+      "arremesso": 134
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 195,
+      "corte": 585,
+      "arremesso": 80
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 2300,
+      "pedra": 400,
+      "prata": 900,
+      "favor": 70,
+      "populacao": 12
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/centauro.png"
   },
   {
     "id": "pegaso",
     "nome": "Pégaso",
     "ataque": {
       "impacto": 0,
-      "corte": 0,
+      "corte": 100,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 750,
+      "corte": 275,
+      "arremesso": 275
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 4000,
+      "pedra": 1300,
+      "prata": 700,
+      "favor": 120,
+      "populacao": 20
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/pegaso.png"
   },
   {
     "id": "cerbero",
     "nome": "Cérbero",
     "ataque": {
-      "impacto": 0,
+      "impacto": 210,
       "corte": 0,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 825,
+      "corte": 300,
+      "arremesso": 1575
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 1950,
+      "pedra": 2350,
+      "prata": 4700,
+      "favor": 180,
+      "populacao": 30
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/cerbero.png"
   },
   {
     "id": "erinia",
@@ -357,87 +357,87 @@
     "ataque": {
       "impacto": 0,
       "corte": 0,
-      "arremesso": 0
+      "arremesso": 1700
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 460,
+      "corte": 460,
+      "arremesso": 595
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 3300,
+      "pedra": 6600,
+      "prata": 6600,
+      "favor": 330,
+      "populacao": 55
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/erinia.png"
   },
   {
     "id": "grifo",
     "nome": "Grifo",
     "ataque": {
-      "impacto": 0,
+      "impacto": 900,
       "corte": 0,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 320,
+      "corte": 330,
+      "arremesso": 100
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 4100,
+      "pedra": 2100,
+      "prata": 5200,
+      "favor": 230,
+      "populacao": 35
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/grifo.png"
   },
   {
     "id": "javaliDeCalidon",
     "nome": "Javali de Cálidon",
     "ataque": {
       "impacto": 0,
-      "corte": 0,
+      "corte": 180,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 700,
+      "corte": 700,
+      "arremesso": 100
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 2900,
+      "pedra": 1500,
+      "prata": 1600,
+      "favor": 120,
+      "populacao": 20
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/javaliDeCalidon.png"
   },
   {
     "id": "satiro",
     "nome": "Sátiro",
     "ataque": {
       "impacto": 0,
-      "corte": 0,
+      "corte": 385,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 55,
+      "corte": 105,
+      "arremesso": 170
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 1450,
+      "pedra": 750,
+      "prata": 2600,
+      "favor": 95,
+      "populacao": 16
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/satiro.png"
   },
   {
     "id": "ladao",
@@ -445,42 +445,42 @@
     "ataque": {
       "impacto": 0,
       "corte": 0,
-      "arremesso": 0
+      "arremesso": 1195
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 478,
+      "corte": 390,
+      "arremesso": 420
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 21000,
+      "pedra": 21500,
+      "prata": 20500,
+      "favor": 490,
+      "populacao": 180
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/ladao.png"
   },
   {
     "id": "esparto",
     "nome": "Esparto",
     "ataque": {
-      "impacto": 0,
+      "impacto": 205,
       "corte": 0,
       "arremesso": 0
     },
     "defesa": {
-      "impacto": 0,
-      "corte": 0,
-      "arremesso": 0
+      "impacto": 100,
+      "corte": 100,
+      "arremesso": 150
     },
     "custo": {
-      "madeira": 0,
-      "pedra": 0,
-      "prata": 0,
-      "favor": 0,
-      "populacao": 0
+      "madeira": 1000,
+      "pedra": 975,
+      "prata": 1025,
+      "favor": 60,
+      "populacao": 10
     },
-    "imagem": "/imagens/tropas/.png"
+    "imagem": "/imagens/tropas/esparto.png"
   }
 ]
