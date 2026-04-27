@@ -18,7 +18,8 @@
       "prata": 85,
       "favor": 0,
       "populacao": 1
-    }
+    },
+    "imagem": "/imagens/tropas/espadachim.png"
   },
   {
     "id": "arqueiro",
@@ -39,7 +40,8 @@
       "prata": 75,
       "favor": 0,
       "populacao": 1
-    }
+    },
+    "imagem": "/imagens/tropas/arqueiro.png"
   },
   {
     "id": "hoplita",
@@ -60,7 +62,8 @@
       "prata": 150,
       "favor": 0,
       "populacao": 1
-    }
+    },
+    "imagem": "/imagens/tropas/hoplita.png"
   },
   {
     "id": "fundibulario",
@@ -81,7 +84,8 @@
       "prata": 40,
       "favor": 0,
       "populacao": 1
-    }
+    },
+    "imagem": "/imagens/tropas/fundibulario.png"
   },
   {
     "id": "cavaleiro",
@@ -102,7 +106,8 @@
       "prata": 360,
       "favor": 0,
       "populacao": 3
-    }
+    },
+    "imagem": "/imagens/tropas/cavaleiro.png"
   },
   {
     "id": "biga",
@@ -123,7 +128,8 @@
       "prata": 320,
       "favor": 0,
       "populacao": 4
-    }
+    },
+    "imagem": "/imagens/tropas/biga.png"
   },
   {
     "id": "catapulta",
@@ -144,7 +150,8 @@
       "prata": 700,
       "favor": 0,
       "populacao": 15
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "enviadoDivino",
@@ -165,7 +172,8 @@
       "prata": 0,
       "favor": 12,
       "populacao": 3
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "minotauro",
@@ -186,7 +194,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "manticora",
@@ -207,7 +216,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "ciclope",
@@ -228,7 +238,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "harpia",
@@ -249,7 +260,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "medusa",
@@ -270,7 +282,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "centauro",
@@ -291,7 +304,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "pegaso",
@@ -312,7 +326,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "cerbero",
@@ -333,7 +348,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "erinia",
@@ -354,7 +370,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "grifo",
@@ -375,7 +392,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "javaliDeCalidon",
@@ -396,7 +414,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "satiro",
@@ -417,7 +436,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "ladao",
@@ -438,7 +458,8 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   },
   {
     "id": "esparto",
@@ -459,6 +480,7 @@
       "prata": 0,
       "favor": 0,
       "populacao": 0
-    }
+    },
+    "imagem": "/imagens/tropas/.png"
   }
 ]
