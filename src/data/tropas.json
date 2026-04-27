@@ -1,0 +1,464 @@
+[
+  {
+    "id": "espadachim",
+    "nome": "Espadachim",
+    "ataque": {
+      "impacto": 5,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 14,
+      "corte": 8,
+      "arremesso": 30
+    },
+    "custo": {
+      "madeira": 95,
+      "pedra": 0,
+      "prata": 85,
+      "favor": 0,
+      "populacao": 1
+    }
+  },
+  {
+    "id": "arqueiro",
+    "nome": "Arqueiro",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 8
+    },
+    "defesa": {
+      "impacto": 7,
+      "corte": 25,
+      "arremesso": 13
+    },
+    "custo": {
+      "madeira": 120,
+      "pedra": 0,
+      "prata": 75,
+      "favor": 0,
+      "populacao": 1
+    }
+  },
+  {
+    "id": "hoplita",
+    "nome": "Hoplita",
+    "ataque": {
+      "impacto": 0,
+      "corte": 16,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 18,
+      "corte": 12,
+      "arremesso": 7
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 75,
+      "prata": 150,
+      "favor": 0,
+      "populacao": 1
+    }
+  },
+  {
+    "id": "fundibulario",
+    "nome": "Fundibulário",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 23
+    },
+    "defesa": {
+      "impacto": 7,
+      "corte": 8,
+      "arremesso": 2
+    },
+    "custo": {
+      "madeira": 55,
+      "pedra": 100,
+      "prata": 40,
+      "favor": 0,
+      "populacao": 1
+    }
+  },
+  {
+    "id": "cavaleiro",
+    "nome": "Cavaleiro",
+    "ataque": {
+      "impacto": 60,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 18,
+      "corte": 1,
+      "arremesso": 24
+    },
+    "custo": {
+      "madeira": 240,
+      "pedra": 120,
+      "prata": 360,
+      "favor": 0,
+      "populacao": 3
+    }
+  },
+  {
+    "id": "biga",
+    "nome": "Biga",
+    "ataque": {
+      "impacto": 0,
+      "corte": 56,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 76,
+      "corte": 16,
+      "arremesso": 56
+    },
+    "custo": {
+      "madeira": 200,
+      "pedra": 440,
+      "prata": 320,
+      "favor": 0,
+      "populacao": 4
+    }
+  },
+  {
+    "id": "catapulta",
+    "nome": "Catapulta",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 100
+    },
+    "defesa": {
+      "impacto": 30,
+      "corte": 30,
+      "arremesso": 30
+    },
+    "custo": {
+      "madeira": 700,
+      "pedra": 700,
+      "prata": 700,
+      "favor": 0,
+      "populacao": 15
+    }
+  },
+  {
+    "id": "enviadoDivino",
+    "nome": "Enviado Divino",
+    "ataque": {
+      "impacto": 45,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 40,
+      "corte": 40,
+      "arremesso": 40
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 12,
+      "populacao": 3
+    }
+  },
+  {
+    "id": "minotauro",
+    "nome": "Minotauro",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "manticora",
+    "nome": "Mantícora",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "ciclope",
+    "nome": "Ciclope",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "harpia",
+    "nome": "Harpia",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "medusa",
+    "nome": "Medusa",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "centauro",
+    "nome": "Centauro",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "pegaso",
+    "nome": "Pégaso",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "cerbero",
+    "nome": "Cérbero",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "erinia",
+    "nome": "Erínia",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "grifo",
+    "nome": "Grifo",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "javaliDeCalidon",
+    "nome": "Javali de Cálidon",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "satiro",
+    "nome": "Sátiro",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "ladao",
+    "nome": "Ladão",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  },
+  {
+    "id": "esparto",
+    "nome": "Esparto",
+    "ataque": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "defesa": {
+      "impacto": 0,
+      "corte": 0,
+      "arremesso": 0
+    },
+    "custo": {
+      "madeira": 0,
+      "pedra": 0,
+      "prata": 0,
+      "favor": 0,
+      "populacao": 0
+    }
+  }
+]
